@@ -1,0 +1,8 @@
+*.csproj
+*.sln
+jenkinsTest/.vs/
+jenkinsTest/Library/
+jenkinsTest/Temp/
+jenkinsTest/Logs/
+jenkinsTest/obj/
+jenkinsTest/Packages/
